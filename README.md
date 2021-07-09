@@ -1,5 +1,7 @@
 # terraform-project
 
+This Template used to create and deploy a webserver ,hosting a single static page .
+                                     
 Assumptions:-
 1. EIP - 55.55.55.55
     If this was mentioned as an example, I think my code is perfect. 
