@@ -1,6 +1,6 @@
 # terraform-project
 
-This Template used to create and deploy a webserver ,hosting a single static page .
+This Template used to create and deploy a webserver by using Terraform ,hosting a single static page .
                                      
 Assumptions:-
 1. EIP - 55.55.55.55
@@ -16,3 +16,4 @@ Assumptions:-
 2. deploy_to_aws.sh
     This script is written assuming the aws credentails are already setup ( ~/.aws/credentials ) using command "aws configure".
     So that the bash prompt is already loaded with the required profile and runs the terraform code without errors.
+# Also, attached the design I created, while writing the code. (template.drawio)
