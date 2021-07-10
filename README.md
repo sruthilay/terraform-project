@@ -17,4 +17,4 @@ Assumptions:-
     This script is written assuming the aws credentails are already setup ( ~/.aws/credentials ) using command "aws configure".
     So that the bash prompt is already loaded with the required profile and runs the terraform code without errors.
 
-Also, attached the design I created, while writing the code. (template.drawio)
+Also, attached the design I created, while writing the code. (template.drawio) by any reason if you are unable to view this please try from here to open it https://app.diagrams.net/ 
